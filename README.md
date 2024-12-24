@@ -4,7 +4,7 @@
 DEMO: https://audiobridge.vercel.app/
 
 
-!https://github.com/AkankshRakesh/Translator/blob/master/audioscribe.png
+![audioscribe_image](https://github.com/AkankshRakesh/Translator/blob/master/audioscribe.png)
 
 
 
