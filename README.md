@@ -4,7 +4,7 @@
 DEMO: https://audiobridge.vercel.app/
 
 
-![Capture d’écran 2023-10-20 151100](https://github.com/raamlaa/free-scribe/assets/94558213/91f6f569-2c7c-48c0-9770-5aaac770dac6)
+!https://github.com/AkankshRakesh/Translator/blob/master/audioscribe.png
 
 
 
